@@ -21,7 +21,10 @@ Calculate and plot the housing units per year
 
 
 
-Calculate and plot the average prices per square foot.
+Calculate and plot the average prices per square foot
+
+![6-4-avg-sale-px-sq-foot-gross-rent](https://github.com/shahp630/San-Francisco-Housing-Market-Visualization-PyViz/assets/133065460/01fea0ae-b13c-44e6-8f1c-473640f07355)
+
 
 
 Compare the average prices by neighborhood.
