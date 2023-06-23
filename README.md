@@ -27,13 +27,16 @@ Calculate and plot the average prices per square foot
 
 
 
-Compare the average prices by neighborhood.
+Compare the average prices by neighborhood
 
 ![6-4-pricing-info-by-neighborhood](https://github.com/shahp630/San-Francisco-Housing-Market-Visualization-PyViz/assets/133065460/7caa4160-09ec-4cfb-b7b8-d857727e443d)
 
 
 
-Build an interactive neighborhood map.
+Build an interactive neighborhood map
+
+![6-4-geoviews-plot](https://github.com/shahp630/San-Francisco-Housing-Market-Visualization-PyViz/assets/133065460/c3c3ee15-79f1-48d1-a2ee-c5af3c5e96f4)
+
 
 
 Compose your data story.
