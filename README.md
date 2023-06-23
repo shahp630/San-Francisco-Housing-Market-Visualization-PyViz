@@ -36,7 +36,3 @@ Compare the average prices by neighborhood
 Build an interactive neighborhood map
 
 ![6-4-geoviews-plot](https://github.com/shahp630/San-Francisco-Housing-Market-Visualization-PyViz/assets/133065460/c3c3ee15-79f1-48d1-a2ee-c5af3c5e96f4)
-
-
-
-Compose your data story.
